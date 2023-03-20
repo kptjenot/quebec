@@ -1,5 +1,6 @@
 export const newKfData = [{
   "name": "dział 1 - RADIOTECHNIKA",
+  /* taktyczny komentarz dla zasięgu */
   "q": [
     {
       "id": "A1",
